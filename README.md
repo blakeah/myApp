@@ -15,6 +15,11 @@ $ sudo npm install -g ionic cordova
 $ ionic start myTabs tabs
 ```
 
+Testing app cd into myApp
+```bash
+$ ionic lab
+```
+
 Then, to run it, cd into `myTabs` and run:
 
 ```bash
